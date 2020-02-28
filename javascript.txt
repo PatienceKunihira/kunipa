@@ -1,0 +1,15 @@
+Variables
+operators
+functions 
+conditions-if, else
+arrays
+loops(for)
+methods:-object,this key,constructors-new.
+embade JS in html
+access elements in html and js
+write an event handler 
+can you call a handler by an event 
+can write an event listener
+write a call back
+fat arrow function
+
